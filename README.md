@@ -22,5 +22,3 @@ Several important insights were uncovered:
 1. **Neighborhood Popularity**: Certain neighborhoods, like Capitol Hill and Belltown, are more popular among travelers.
 2. **Price Fluctuations**: Prices tend to vary depending on the time of year and the neighborhood location.
 3. **Key Pricing Factors**: Factors such as the number of bedrooms, room type, and guest reviews have a significant impact on pricing.
-
-By understanding these trends, Airbnb hosts can better tailor their pricing strategies, and travelers can gain insights into where to find the best deals based on their preferences.
